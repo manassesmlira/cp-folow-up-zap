@@ -1,0 +1,5 @@
+﻿node_modules/
+.env
+arquitetura.md
+api-zap.php
+painel-zap.php

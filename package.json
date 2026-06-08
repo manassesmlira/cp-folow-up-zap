@@ -1,0 +1,17 @@
+{
+  "name": "mvp-followup-whatsapp",
+  "version": "1.0.0",
+  "description": "MVP de follow-up automático por WhatsApp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+   "start": "node api/cron-disparos.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
