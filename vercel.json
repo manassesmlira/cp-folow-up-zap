@@ -1,8 +1,8 @@
-{
+﻿{
   "crons": [
     {
       "path": "/api/cron-disparos",
-      "schedule": "0 15 * * *"
+      "schedule": "0 13-20 * * *"
     }
   ]
 }
